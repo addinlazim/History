@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180604018631",
+    "firebase_url": "https://trac-e1968.firebaseio.com",
+    "project_id": "trac-e1968",
+    "storage_bucket": "trac-e1968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180604018631:android:5fb3b001c1f9e29d8503e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180604018631-p64jgrlk1okc8od8mhklqnqsmrgvutac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "e76c66a28291dfd4f6e9286b48e046974fe7e765"
+          }
+        },
+        {
+          "client_id": "180604018631-3k27edl68dp12s18h58jlu28pmunr3ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgFIk_e1YaPXxLJ5VmzAalLbM-ziiTvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180604018631-3k27edl68dp12s18h58jlu28pmunr3ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
